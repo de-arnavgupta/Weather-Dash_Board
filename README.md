@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-A modern, responsive weather dashboard that provides real-time weather information and 5-day forecasts for any city worldwide. Built using vanilla JavaScript and the OpenWeatherMap API.
+A modern, responsive weather dashboard that provides real-time weather information and 5-day forecasts for any city worldwide. Built using JavaScript and the OpenWeatherMap API.
 
 ## Features
 
